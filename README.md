@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sangeeth Sulochana</h1>
 <h3 align="center">A Software Engineering Student from Sri Lanka</h3>
 
-<img align="right" alt="coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2JSTla7bu-Fw9YT4spDMf4&ust=1697914683347000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCcjaWnhYIDFQAAAAAdAAAAABAE">
-
 - 🌱 I’m currently learning at IJSE **Institute of Software Engineering**
 
 - 📫 How to reach me **ssulochanaherath@gmail.com**
