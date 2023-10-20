@@ -1,4 +1,4 @@
-
+![logo](https://github.com/ssulochanaherath/ssulochanaherath/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sangeeth Sulochana</h1>
 <h3 align="center">A Software Engineering Student from Sri Lanka</h3>
 
