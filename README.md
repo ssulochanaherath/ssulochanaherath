@@ -68,14 +68,6 @@ I believe **creativity and innovation** drive tech forward. Excited to be part o
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmikaz&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmikaz&theme=radical" height="180"/>
-</div>
-
----
-
 ## 🔗 Let's Connect!  
 📩 Feel free to **reach out** for collaborations or discussions on **frontend development**!  
 💻 **Explore my repositories** and **let's build something amazing together!** 🚀  
