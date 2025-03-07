@@ -27,7 +27,7 @@
 </h1>
 
 <div align="center">
-  <img src="" width="1000" height="460"/>
+  <img src="https://drive.google.com/file/d/19w6rH3HjCzakHkaXu9l1Qv1fgv-OeZz3/view?usp=drive_link" width="1000" height="460"/>
 </div>
 
 ## 🚀 About Me  
