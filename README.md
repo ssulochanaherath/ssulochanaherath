@@ -26,7 +26,7 @@
 <h1 align="center">Hey 👋 I'm Sangeeth</h1>
 
 <div align="center">
-  <img src="https://github.com/ssulochanaherath/ssulochanaherath/blob/main/assets/banner.jpg?raw=true" alt="Banner" width="1000" height="960"/>
+  <img src="https://github.com/ssulochanaherath/ssulochanaherath/blob/main/assets/banner.jpg?raw=true" alt="Banner" width="1000" height="720"/>
 </div>
 
 ---
