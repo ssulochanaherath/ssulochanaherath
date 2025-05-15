@@ -25,10 +25,6 @@
 
 <h1 align="center">Hey 👋 I'm Sangeeth</h1>
 
-<div align="center">
-  <img src="https://drive.google.com/uc?id=19w6rH3HjCzakHkaXu9l1Qv1fgv-OeZz3" alt="Banner" width="1000" height="460"/>
-</div>
-
 ---
 
 ## 💫 About Me
